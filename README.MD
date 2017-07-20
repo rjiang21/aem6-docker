@@ -6,7 +6,7 @@ This will install an author instance in the docker. But if you want to install a
 Here, the default CQ jar file is cq-author-p4502.jar and the licence file is license.properties.
 Port 80, 443, 4502, 58242 are open.
 Port 58242 is for debugging port.
-
+![file structure](https://raw.githubusercontent.com/rjiang21/aem6-docker/master/filestructure.png)
 
 ### To Install the image
 ```aidl
